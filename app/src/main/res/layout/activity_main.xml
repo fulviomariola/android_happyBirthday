@@ -26,7 +26,7 @@
         android:layout_marginStart="16dp"
         android:layout_marginTop="16dp"
         android:fontFamily="sans-serif-light"
-        android:text="Buon Compleanno!!!"
+        android:text="Buon Compleanno!"
         android:textAlignment="textEnd"
         android:textColor="@android:color/black"
         android:textSize="36sp"
